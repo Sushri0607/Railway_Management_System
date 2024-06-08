@@ -32,7 +32,7 @@ This is the SQL code for the project. The database consists of 6 tables.
 
 ## Railway_management_system.ipynb
 
-This is the Python Code for the project. Consists many functions
+This is the Python Code for the project. It Consists Data Manipulation & Data Visualization
 
 ## Conclusion
 
