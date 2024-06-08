@@ -9,13 +9,13 @@ Passengers may look for trains by entering the boarding station, arrival station
 
 A railway management system (RMS) utilizes software and technology to manage various aspects of railway operations.
 ## Features:
-    Ticketing and Reservation:
+### Ticketing and Reservation:
 • Allow passengers to book tickets online or through mobile apps.
 • Manage seat availability and fare calculations.
-    Inventory Management:
+### Inventory Management:
 • Track and maintain information about locomotives, carriages, and other rolling stock.
 • Schedule maintenance and repairs to ensure train availability.
-    Passenger Information Systems:
+### Passenger Information Systems:
 • Provide real-time information about train schedules, delays, and platform assignments to passengers.
 • Enable passengers to track train locations and arrival times.
 
