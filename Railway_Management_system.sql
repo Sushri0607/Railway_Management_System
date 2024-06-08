@@ -1,0 +1,2 @@
+CREATE DATABASE restaurantreservationsystem;
+use restaurantreservationsystem;
